@@ -10,7 +10,7 @@
 
 Projeto desenvolvido como Atividade Prática Supervisionada (APS) da disciplina de Estrutura de Dados da FMU.
 
-O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`heapq`) para manter o ranking dos produtos mais vendidos, demonstrando a aplicação prática dessas estruturas de dados.
+O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`heapq`) para manter o ranking dos produtos mais vendidos.
 
 ## Tecnologias
 
