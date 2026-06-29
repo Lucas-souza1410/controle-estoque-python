@@ -10,6 +10,7 @@
 ## Sobre
 O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`heapq`) para manter o ranking dos produtos mais vendidos, demonstrando a aplicação prática dessas estruturas de dados.
 
+
 ## Tecnologias
 - Python 3
 - Hash Table (`dict`)
