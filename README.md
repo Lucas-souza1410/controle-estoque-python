@@ -28,4 +28,4 @@ O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`h
 
 ## Observação
 
-Este projeto foi desenvolvido originalmente em **2025** durante a graduação e publicado posteriormente no GitHub para compor meu portfólio.
+Este projeto foi desenvolvido originalmente em **04/2025** durante a graduação e publicado posteriormente no GitHub para compor meu portfólio.
