@@ -12,7 +12,7 @@ Projeto desenvolvido como Atividade Prática Supervisionada (APS) da disciplina 
 
 O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`heapq`) para manter o ranking dos produtos mais vendidos.
 
-## Tecnologias
+## Tecnologia
 
 - Python 3
 - Hash Table (`dict`)
@@ -22,7 +22,6 @@ O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`h
 
 - Cadastro de produtos
 - Busca de produtos por código
-- Controle de estoque
 - Registro de vendas
 - Ranking dos produtos mais vendidos
 
