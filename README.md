@@ -6,13 +6,22 @@
 
 📤 Publicado no GitHub: Junho de 2026
 
+
 ## Sobre
-Projeto acadêmico utilizando Hash Table (`dict`) e Heap (`heapq`) para gerenciamento de estoque.
+O sistema utiliza uma Hash Table (`dict`) para armazenar produtos e uma Heap (`heapq`) para manter o ranking dos produtos mais vendidos, demonstrando a aplicação prática dessas estruturas de dados.
 
 ## Tecnologias
-- Python
-- Hash Table
-- Heap
+- Python 3
+- Hash Table (`dict`)
+- Heap (`heapq`)
+- 
+- ## Funcionalidades
+- Cadastro de produtos
+- Busca de produtos por código
+- Controle de estoque
+- Registro de vendas
+- Ranking dos produtos mais vendidos
+
 
 ## Observação
-Projeto desenvolvido em 2025 e publicado posteriormente para compor o portfólio.
+Este projeto foi desenvolvido originalmente em **04/2025** durante a graduação e publicado posteriormente no GitHub para compor meu portfólio.
